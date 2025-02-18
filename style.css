@@ -81,4 +81,22 @@ body {
     justify-content: space-between;
     color: #999999;
   }  
-  
+  .wishes{
+margin-top: 30px;
+text-align: center;
+  }
+  #btn_love_wishes {
+    background: #ff5a26 ;
+    color: white;
+    border: 5px solid orange;
+    border-radius: 10px;
+    padding: 10px 20px ;
+    font-size: 36px;
+    cursor: pointer;
+  }
+
+  #p-love-wishes{
+    font-size: 36px;
+    line-height: 40px;
+    color: #ff5a26;
+  }
